@@ -1,9 +1,9 @@
 # RISC-V Performance Optimizer
 
-## 🎯 Project Overview
+##  Project Overview
 A comprehensive mini-project demonstrating software optimization techniques for RISC-V architecture. This project showcases porting, profiling, and performance optimization skills essential for RISC-V development.
 
-## 🚀 Features
+##  Features
 - **Matrix Operations Library**: High-performance matrix multiplication algorithms
 - **String Processing Suite**: Optimized string manipulation functions  
 - **Mathematical Computing**: Complex mathematical operations with RISC-V optimizations
@@ -11,7 +11,7 @@ A comprehensive mini-project demonstrating software optimization techniques for 
 - **Performance Profiling**: Integrated benchmarking and profiling tools
 - **Optimization Documentation**: Detailed guides and performance analysis
 
-## 🏗️ Project Structure
+##  Project Structure
 ```
 RISC-V-Performance-Optimizer/
 ├── src/                    # Source code files
@@ -25,27 +25,27 @@ RISC-V-Performance-Optimizer/
 └── Makefile               # Build configuration
 ```
 
-## 🛠️ Prerequisites
+##  Prerequisites
 - GCC RISC-V Cross-Compiler Toolchain
 - Linux development environment
 - Make build system
 - Performance profiling tools (perf, gprof)
 
-## 📊 Performance Metrics
+##  Performance Metrics
 This project includes comprehensive benchmarking comparing:
 - x86-64 vs RISC-V performance
 - Different optimization levels
 - Memory usage patterns
 - Instruction count analysis
 
-## 🎓 Learning Outcomes
+##  Learning Outcomes
 - RISC-V architecture understanding
 - Cross-compilation techniques
 - Performance optimization strategies
 - Profiling and debugging skills
 - Open source contribution workflow
 
-## 📝 Documentation
+##  Documentation
 Detailed documentation covering:
 - Porting process and challenges
 - Optimization techniques applied
@@ -53,4 +53,3 @@ Detailed documentation covering:
 - Contribution guidelines
 
 ---
-**Perfect for RISC-V mentorship applications and open source contributions!**
